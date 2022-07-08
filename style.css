@@ -237,3 +237,20 @@ body
     color: white;
     border-radius: 2px;
 }
+.footer-task
+{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 2%;
+}
+.not-done-yet
+{
+    font-size: x-large;
+    margin-top: 10px;
+}
+.ok-done
+{
+    font-size: x-small;
+    font-weight: 100;
+}
