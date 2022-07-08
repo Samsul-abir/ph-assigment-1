@@ -86,3 +86,40 @@ body
     border-radius: 2px;
 }
 
+.third-part
+{
+    margin-top: 60px;
+    text-align: center;
+}
+.para-three
+{
+    color: darkgrey;
+    font-size: medium;
+}
+.donation-boxes
+{
+    display: inline-block;
+    margin-bottom: 40px;
+    text-align: justify;
+    font-size: medium;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 2%;
+    margin-top: 40px;
+    border-radius: 5px;
+    padding: 40px;
+    box-shadow: 10px 10px 40px darkgrey;
+}
+#box-one
+{
+    background-color: lightpink;
+}
+#box-two
+{
+    background-color: bisque;
+}
+#box-three
+{
+    margin-top: 20px;
+    background-color: darksalmon;
+}
