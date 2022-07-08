@@ -135,6 +135,7 @@ body
 }
 .container-two
 {
+    margin-top: 80px;
     display: flex;
     margin-bottom: 100px;
     font-size: larger;
@@ -150,6 +151,18 @@ body
 #data-con-one
 {
     font-weight: 700;
+}
+.container-body-two
+{
+    margin-top: -120px;
+}
+.whole-container-two
+{
+    display: flex;
+    margin-left: 70px;
+    margin-bottom: 100px;
+    font-size: larger;
+    font-weight: 400;
 }
 .data-container
 {
@@ -171,9 +184,51 @@ body
     color: white;
     border-radius: 2px;
 }
+.data-container-two
+{
+    font-size: medium;
+    text-align: left;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+}
 .button-three
 {
-    osition: relative;
+    position: relative;
+    text-decoration: none;
+    font-size: medium;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px;
+    color: white;
+    border-radius: 2px;
+}
+.last-container
+{
+    text-align: center;
+}
+.last-design-box
+{
+    font-size: medium;
+    width: 40%;
+    margin-top: 40px;
+    margin-left: 25%;
+    margin-right: 5%;
+    margin-bottom: 40px;
+    background-color: rgb(244, 216, 221);
+    border-radius: 10px;
+    padding: 65px;
+    box-shadow: 3px 3px pink, -0.5em 0 .4em;
+}
+#last-para
+{
+    font-size: small;
+    color: grey;
+}
+.last-button
+{
+    position: relative;
     text-decoration: none;
     font-size: medium;
     font-weight: 700;
