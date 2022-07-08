@@ -31,11 +31,54 @@ body
     text-align: center;
     font-size: medium;
 }
-.header-1
+#part-one
 {
-    font-weight: 400;
+    font-weight: bold;
 }
-.header.4
+#part-two
+{
+    font-weight: lighter;
+}
+
+.containers
+{
+    display: inline-block;
+    position: relative;
+    font-size: medium;
+    text-align: center;
+    width: 10%;
+    margin-left: 80px;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 10px 10px 40px lightgray;
+    
+}
+#two-hundred
+{
+    font-size: medium;
+    width: 10%;
+    margin-left: 80px;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    border: 7px solid purple ; 
+}
+#normal
 {
     font-weight: 100;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: darkgray;
 }
+.donation-button
+{
+    position: relative;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    margin-left: 595px;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 2px;
+}
+
