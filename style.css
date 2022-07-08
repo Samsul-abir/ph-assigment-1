@@ -56,8 +56,7 @@ body
     margin-right: 20px;
     border-radius: 5px;
     padding: 5px;
-    box-shadow: 10px 10px 40px lightgray;
-    
+    box-shadow: 10px 10px 40px lightgray;    
 }
 #two-hundred
 {
@@ -69,26 +68,6 @@ body
     border-radius: 5px;
     padding: 5px;
     border: 7px solid purple ; 
-}
-.hundred-one
-{
-
-}
-.hundred-two
-{
-    
-}
-.hundred-five
-{
-
-}
-.thounsand-one
-{
-
-}
-.thounsand-two
-{
-
 }
 #normal
 {
@@ -146,4 +125,60 @@ body
 {
     margin-top: 20px;
     background-color: darksalmon;
+}
+.whole-container
+{
+    display: flex;
+    margin-bottom: 100px;
+    font-size: larger;
+    font-weight: 400;
+}
+.container-two
+{
+    display: flex;
+    margin-bottom: 100px;
+    font-size: larger;
+    font-weight: 400;
+}
+.second-half
+{
+    width: 50%;
+    padding: 5%;
+    margin-top: -40px;
+    margin-left: 10px;
+}
+#data-con-one
+{
+    font-weight: 700;
+}
+.data-container
+{
+    font-size: medium;
+    text-align: left;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+}
+.button-two
+{
+    position: relative;
+    text-decoration: none;
+    font-size: medium;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px;
+    color: white;
+    border-radius: 2px;
+}
+.button-three
+{
+    osition: relative;
+    text-decoration: none;
+    font-size: medium;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px;
+    color: white;
+    border-radius: 2px;
 }
