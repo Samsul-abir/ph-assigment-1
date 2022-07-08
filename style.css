@@ -11,11 +11,14 @@ body
 }
 .button-style
 {
+    position: relative;
     text-decoration: none;
+    font-size: large;
+    font-weight: 700;
     background-image: linear-gradient(orange, tomato);
     padding: 5px 10px;
     color: white;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 .flood-image
 {
@@ -75,6 +78,7 @@ body
 {
     position: relative;
     text-decoration: none;
+    font-weight: 700;
     background-image: linear-gradient(orange, tomato);
     margin-left: 595px;
     padding: 5px 10px;
