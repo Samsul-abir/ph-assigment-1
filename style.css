@@ -37,17 +37,19 @@ body
 #part-one
 {
     font-weight: bold;
+    margin-top: 50px;
 }
 #part-two
 {
     font-weight: lighter;
+    color: darkgrey;
 }
 
 .containers
 {
     display: inline-block;
     position: relative;
-    font-size: medium;
+    font-size: small;
     text-align: center;
     width: 10%;
     margin-left: 80px;
@@ -68,8 +70,29 @@ body
     padding: 5px;
     border: 7px solid purple ; 
 }
+.hundred-one
+{
+
+}
+.hundred-two
+{
+    
+}
+.hundred-five
+{
+
+}
+.thounsand-one
+{
+
+}
+.thounsand-two
+{
+
+}
 #normal
 {
+    margin-top: 70px;
     font-weight: 100;
     text-align: center;
     text-decoration: underline;
